@@ -1,0 +1,13 @@
+
+{
+  "name": "0x03-ES6_data_manipulation",
+  "version": "1.0.0",
+  "description": "A brief description of the project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node 0-main.js"
+  },
+  "author": "ayoub zaidane",
+  "license": "ISC"
+}
